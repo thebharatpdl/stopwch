@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
   },
   pickerItem: {
     color: "#fff",
-    fontSize: 20,
+    fontSize: 21,
     ...Platform.select({
       android: {
         marginLeft: 10,
